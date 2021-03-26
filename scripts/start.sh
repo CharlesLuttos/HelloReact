@@ -1,3 +1,3 @@
 #!/bin/bash
 cd /data/app
-npm start
+nohup npm start
